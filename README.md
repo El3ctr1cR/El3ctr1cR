@@ -1,60 +1,66 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi there, I'm <a href="https://github.com/El3ctricR">El3ctricR</a> 👋</h1>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-
-- 📝 I’m currently working with **Java, MongoDB, Redis**
-  
-<!--Intro end-->
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<br>
+
+<h2 align="center">👨‍💻 About me</h2>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=El3ctr1cR&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=El3ctr1cR&theme=dark&hide_border=false" /> 
-</td>
+<p align="center">🔍 I’m mostly interested in technology and discovering how stuff/technology really works!</p>
 
-<td width="50%" align="center">
+<p align="center">🙌 God bless the open-source community.</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=El3ctr1cR&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="center">🌱 I learn everything I know from the internet.</p>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=El3ctr1cR&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+<br>
 
+<h2 align="center">⚙️ I'm currently working with</h2>
 
-</p>        
-<!--- stats (end) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Database-Redis-red?logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<h2 align="center">📖 I'm currently trying to learn</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Code-C%23-purple?logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
+<br>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=El3ctricR&show_icons=true&theme=algolia&hide_border=true" alt="El3ctricR's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3ctricR&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ctricR&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
+
+<br>
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/El3ctricR">
+    <img src="https://img.shields.io/github/followers/El3ctricR?label=Follow&style=social" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=El3ctricR.El3ctricR" alt="Visitor Count" />
+</p>
