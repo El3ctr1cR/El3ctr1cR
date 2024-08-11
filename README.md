@@ -10,7 +10,7 @@
 
 <p align="center">🙌 God bless the open-source community.</p>
 
-<p align="center">🌱 I learn everything I know from the internet.</p>
+<p align="center">🌱 I have learned everything I know from the internet.</p>
 
 
 
