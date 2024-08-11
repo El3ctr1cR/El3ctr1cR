@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<br>
-
 <h2 align="center">👨‍💻 About me</h2>
   
 <p align="center">🔍 I’m mostly interested in technology and discovering how stuff/technology really works!</p>
@@ -14,7 +12,7 @@
 
 <p align="center">🌱 I learn everything I know from the internet.</p>
 
-<br>
+
 
 <h2 align="center">⚙️ I'm currently working with</h2>
 
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-<br>
+
 
 <h2 align="center">📖 I'm currently trying to learn</h2>
 
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/Code-C%23-purple?logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-<br>
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -51,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ctricR&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
 
-<br>
+
 
 <h2 align="center">🌐 Let's Connect</h2>
 
