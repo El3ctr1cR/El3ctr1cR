@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/El3ctricR">El3ctricR</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/El3ctr1cR">El3ctricR</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/El3ctricR">
-    <img src="https://img.shields.io/github/followers/El3ctricR?label=Follow&style=social" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/El3ctr1cR?label=Follow&style=social" alt="GitHub" />
   </a>
 </p>
 
