@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/El3ctr1cR">El3ctricR</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/El3ctr1cR">El3ctr1cR</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -38,15 +38,15 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El3ctricR&show_icons=true&theme=algolia&hide_border=true" alt="El3ctricR's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=El3ctr1cR&show_icons=true&theme=algolia&hide_border=true" alt="El3ctr1cR's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3ctricR&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El3ctr1cR&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ctricR&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El3ctr1cR&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
 
 
@@ -54,11 +54,11 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/El3ctricR">
+  <a href="https://github.com/El3ctr1cR">
     <img src="https://img.shields.io/github/followers/El3ctr1cR?label=Follow&style=social" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=El3ctricR.El3ctricR" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=El3ctr1cR.El3ctr1cR" alt="Visitor Count" />
 </p>
