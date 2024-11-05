@@ -26,15 +26,6 @@
 
 
 
-<h2 align="center">📖 I'm currently trying to learn</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Code-C%23-purple?logo=c-sharp&logoColor=white" alt="C#" />
-</p>
-
-
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
